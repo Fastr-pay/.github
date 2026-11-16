@@ -1,78 +1,94 @@
 # Fastr Pay
 
-\<p align="center">
-&#x20; \<strong>Financial Rails for the Stablecoin Economy.\</strong>
-\</p>
+### Financial Rails for the Stablecoin Economy.
 
-\<p align="center">
-&#x20; \<a href="[https://fastr-pay-web.vercel.app/](https://fastr-pay-web.vercel.app/)">Website\</a> •
-&#x20; \<a href="[https://github.com/Fastr-pay](https://github.com/Fastr-pay)">GitHub\</a>
-\</p>
+**Building the next generation of global payment infrastructure.**
 
 ---
 
-## About Fastr Pay
+### About Fastr Pay
 
 Fastr Pay is building financial infrastructure that connects traditional business payments with blockchain-based settlement.
 
-We aim to make stablecoin payments, business settlements, payroll, and global payouts simpler through a unified financial infrastructure layer.
+Our mission is to simplify:
 
-Our approach is built around one principle:
+- **Stablecoin Payments**
+- **Business Settlements**
+- **Global Payouts**
+- **Employee Payroll**
+- **Cross-border Money Movement**
 
 > **We are rails, not an app.**
 
-Businesses should retain their customer relationships while accessing modern payment and settlement infrastructure without exposing their customers to blockchain complexity.
-
-## What We're Building
-
-| Area                       | Description                                                            |
-| -------------------------- | ---------------------------------------------------------------------- |
-| **Business Payments**      | Simplified payment collection for businesses and platforms.            |
-| **Stablecoin Settlement**  | Settlement infrastructure supporting USDC and USDT.                    |
-| **Global Payouts**         | Infrastructure for cross-border business payments.                     |
-| **Payroll**                | Flexible stablecoin-based employee payment workflows.                  |
-| **Gig Payouts**            | Payment distribution for gig platforms and marketplaces.               |
-| **Fiat Off-Ramp**          | Connecting digital asset settlements with traditional banking systems. |
-| **Payment Infrastructure** | Financial APIs and integrations for existing business platforms.       |
-
-## Who We Build For
-
-Fastr Pay is designed for businesses that already have customers and need better financial infrastructure.
-
-- E-commerce platforms
-- SaaS and API businesses
-- OTT and digital platforms
-- Payroll providers
-- Gig economy platforms
-- Marketplaces
-- International businesses
-
-## Our Vision
-
-We believe stablecoins can become an important part of global financial infrastructure.
-
-However, businesses should not need to manage blockchain complexity to benefit from them.
-
-Fastr Pay aims to bridge traditional financial systems and blockchain-based settlement, making global money movement more accessible, flexible, and efficient.
-
-## Development Status
-
-\<sub>Early-stage development · Testnet · Experimental\</sub>
-
-Fastr Pay is currently under active development.
-
-The project includes experimental implementations, testnet-based blockchain workflows, and simulated payment and payout experiences.
-
-**Fastr Pay is not currently a production-ready financial service.** Real-world payment and banking capabilities are subject to further development, testing, and appropriate financial partnerships.
-
-## Our Principles
-
-- **Infrastructure First** — Build reliable financial rails rather than another consumer-facing wallet.
-- **Developer Friendly** — Make integration straightforward for businesses.
-- **Global by Design** — Build toward borderless payment and settlement workflows.
-- **Stablecoin Native** — Use blockchain-based settlement to simplify money movement.
-- **Security & Transparency** — Prioritize responsible infrastructure development.
+Businesses should be able to access modern financial infrastructure without dealing with the complexity of blockchain technology.
 
 ---
 
-\<p align="center">   \<strong>Fastr Pay\</strong>\<br/>   Building the next generation of financial rails.   \<br/>\<br/>   \<a href="[https://fastr-pay-web.vercel.app/](https://fastr-pay-web.vercel.app/)">fastr-pay-web.vercel.app\</a> \</p>
+### What We're Building
+
+| Infrastructure | Purpose |
+|:---|:---|
+| **Business Payments** | Simplified payment collection |
+| **Stablecoin Settlement** | USDC and USDT settlement |
+| **Global Payouts** | Cross-border business payments |
+| **Payroll Infrastructure** | Stablecoin-based employee payments |
+| **Gig Payouts** | Automated payment distribution |
+| **Fiat Off-Ramp** | Digital asset to traditional banking connectivity |
+| **Payment APIs** | Financial integrations for businesses |
+
+---
+
+### Who We Build For
+
+- E-commerce Platforms
+- SaaS & API Businesses
+- OTT & Digital Platforms
+- Payroll Providers
+- Gig Economy Platforms
+- Marketplaces
+- International Businesses
+
+---
+
+### Our Vision
+
+We believe stablecoins can become a fundamental part of global financial infrastructure.
+
+Traditional financial systems and blockchain networks should work together seamlessly.
+
+Fastr Pay aims to make global money movement more accessible, flexible, and efficient.
+
+---
+
+### Development Status
+
+**Early-stage Development | Testnet | Experimental**
+
+- Blockchain workflows are being tested on testnets.
+- Payment and payout experiences include simulated flows.
+- Infrastructure is under active development.
+
+> **Note:** Fastr Pay is not production-ready. Real-world payment and banking capabilities require further development, testing, and appropriate financial partnerships.
+
+---
+
+### Our Principles
+
+- **Infrastructure First** — Build reliable financial rails.
+- **Developer Friendly** — Make integrations simple.
+- **Global by Design** — Enable borderless payment workflows.
+- **Stablecoin Native** — Simplify settlement using digital assets.
+- **Security & Transparency** — Build responsibly and transparently.
+
+---
+
+### Explore Fastr Pay
+
+- **Website:** https://fastr-pay-web.vercel.app/
+- **GitHub:** https://github.com/Fastr-pay
+
+---
+
+### Fastr Pay
+
+**Building the next generation of financial rails.**
